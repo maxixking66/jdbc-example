@@ -5,6 +5,9 @@ import com.maktabsharif74.jdbcexample.domain.User;
 
 public class Menu {
 
+    public void addThirdMethodForGit() {
+    }
+
     public void showWelcomeMenu() {
         System.out.println("welcome to jdbc_example application");
         System.out.println("plz choose a number:");
@@ -84,5 +87,9 @@ public class Menu {
 
     public void showNewArticleInsertedMessage() {
         System.out.println("new article inserted!!!");
+    }
+
+    public void addNewMethodForGit() {
+
     }
 }
